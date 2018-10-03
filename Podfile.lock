@@ -1,0 +1,16 @@
+PODS:
+  - APLoadingButton (1.0.0)
+
+DEPENDENCIES:
+  - APLoadingButton (from `/Users/ocsdev/Documents/arun/APButton`)
+
+EXTERNAL SOURCES:
+  APLoadingButton:
+    :path: /Users/ocsdev/Documents/arun/APButton
+
+SPEC CHECKSUMS:
+  APLoadingButton: ea2c9ae38880789e1a2a895067000676752b59d3
+
+PODFILE CHECKSUM: 0acaa7305551af77726d5495104de6f2dececae7
+
+COCOAPODS: 1.4.0
